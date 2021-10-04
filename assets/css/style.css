@@ -1,3 +1,15 @@
-body{
+/* body{
     background-color: blueviolet;
+} */
+#sameDay{
+    border: solid blue;
+}
+#fiveDay{
+    border: dotted red;
+}
+#mySearch{
+    border: solid gray;
+}
+#lastSearch{
+    border: solid salmon;
 }
