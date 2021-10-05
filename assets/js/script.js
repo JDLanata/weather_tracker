@@ -100,7 +100,7 @@ function searchHist() {
     var newLi = document.createElement('button');
     $(newLi).text(city);
    
-$(city).add(lastSearch)
+$(lastSearch).add(newLi)
   }
 
   localStorage.setItem("weather", JSON.stringify(lastSearch));
