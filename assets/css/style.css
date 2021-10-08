@@ -7,7 +7,7 @@
 #fiveDay{
     border: dotted red;
 }
-#mySearch{
+.mySearch{
     border: solid gray;
 }
 #lastSearch{
